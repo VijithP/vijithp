@@ -14,7 +14,7 @@
 |Reporting                      |  SAP Crystal Reports and Microsoft Reporting (RDLC) |
 
 ### CERTIFICATION
-- ##### Microsoft Certified Solution Associate (MCSA) : Web Applications 
+-  Microsoft Certified Solution Associate (MCSA) : Web Applications 
 
   
 
