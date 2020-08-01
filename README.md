@@ -1,3 +1,5 @@
+
+![alt text](https://github.com/VijithP/vijithp/blob/master/FD.PNG)
 ### KEY SKILLS 
 
 - Six years of strong experience in software Analysis, Design and Development and Testing using ASP.NET MVC4, C#.NET, JavaScript, Jquery, CSS3 on web application environment. Expertise in development on web application using ASP.NET technologies.  Experience in Microsoft SQL Server . Exposure to development. Having a logical approach to problem solving. A strong understanding of professional software development practice. Experience of working on large scale websites and micro sites.
