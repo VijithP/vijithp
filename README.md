@@ -21,11 +21,11 @@
 
 ### TECHNICAL SKILLS 
 
-<p>- 🔭 Operating System  :	 Windows </p>
-- 🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode
-- 🔭 Technologies    	 : ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 
-- 🔭 Database          : Microsoft  SQL Server 
-- 🔭 eporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) 
+<p>🔭 Operating System  :	 Windows </p>
+<p>🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode </p>
+<p>🔭 Technologies    	 : ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 </p>
+<p>🔭 Database          : Microsoft  SQL Server </p>
+<p>🔭 eporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) </p>
 
 ### KEY SKILLS 
 - 6 years of experience in building solutions using Microsoft based Fullstack web technologies.
@@ -50,7 +50,7 @@
 - Experience of working on large scale websites and microsites.
 
 ### CERTIFICATION
--  Microsoft Certified Solution Associate (MCSA) : Web Applications 
+<p> Microsoft Certified Solution Associate (MCSA) : Web Applications </p>
 
   
 
