@@ -23,17 +23,14 @@
 - Thorough knowledge on TDD & write unit test cases
 - A strong understanding of professional software development practice. 
 - Experience of working on large scale websites and microsites.
-- A strong understanding of professional Report development using SAP
 
 ### TECHNICAL SKILLS 
 
-|  | Description |
-| --- | --- |
-|Operating System      | 	 Windows,  Android |
-|Development Tools   |   Microsoft Visual Studio 2015, 2012|
-|Technologies               |	 ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 |
-|Database                      | Microsoft  SQL Server |
-|Reporting                      |  SAP Crystal Reports and Microsoft Reporting (RDLC) |
+🔭 Operating System  :	 Windows
+🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode
+🔭 Technologies    	 : ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 
+🔭 Database          : Microsoft  SQL Server 
+🔭Reporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) 
 
 ### CERTIFICATION
 -  Microsoft Certified Solution Associate (MCSA) : Web Applications 
