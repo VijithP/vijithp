@@ -26,11 +26,11 @@
 
 ### TECHNICAL SKILLS 
 
-🔭 Operating System  :	 Windows
-🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode
-🔭 Technologies    	 : ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 
-🔭 Database          : Microsoft  SQL Server 
-🔭Reporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) 
+- 🔭 Operating System  :	 Windows
+- 🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode
+- 🔭 Technologies    	 : ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 
+- 🔭 Database          : Microsoft  SQL Server 
+- 🔭 eporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) 
 
 ### CERTIFICATION
 -  Microsoft Certified Solution Associate (MCSA) : Web Applications 
