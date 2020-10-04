@@ -1,6 +1,11 @@
 
 ![alt text](https://github.com/VijithP/vijithp/blob/master/FD.PNG)
 
+<p>Hello! Welcome 👋 to my profile 🚀 </p>
+
+<p>I'm Vijith, I'm a full stack developer.</p>
+
+
 
 ### KEY SKILLS 
 - 6 years of experience in building solutions using Microsoft based Fullstack web technologies.
