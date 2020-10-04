@@ -18,8 +18,9 @@
 <p> 📫 How to reach me: email( vijith5430@gmail.com) </p>
 <p> ⚡ Fun fact: learning new technologies </p>
 
+\
 
-## TECHNICAL SKILLS 
+#### TECHNICAL SKILLS 
 
 <p>🔭 Operating System  :	 Windows </p>
 <p>🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode </p>
