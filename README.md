@@ -3,8 +3,27 @@
 
 
 ### KEY SKILLS 
-
-- Six years of strong experience in software Analysis, Design and Development and Testing using ASP.NET MVC4, C#.NET, JavaScript, Jquery, CSS3 on web application environment. Expertise in development on web application using ASP.NET technologies.  Experience in Microsoft SQL Server . Exposure to development. Having a logical approach to problem solving. A strong understanding of professional software development practice. Experience of working on large scale websites and micro sites.
+- 6 years of experience in building solutions using Microsoft based Fullstack web technologies.
+- Hand-on experience in  web technologies such as Asp.Net, C#, ASP.NET MVC, WCF,  Web API
+- Hands on experience in front end web technologies  Angular and Javascript .
+- Hands-on experience in SQL Server
+- Very well versed with Object Oriented design
+- Experience with REST APIs using WEB APIs   
+- Solid experience in scripting language such as  jQuery and Typescript 
+- Experience in CSS frameworks like Bootstrap for responsive UI design
+- Experience in Writing stored procedures with CTE, Dynamic queries and user defined functions
+- Capability of translating business requirements into application screens and integration into overall application environment
+- Experience in UI component such as Angular Material and PrimeNg
+- Experience in the Project Management Tools  such as Team Foundation Server . 
+- Experience in  Version Control tools such as Git & TFS.
+- Experience in working with Unit testing with nunit
+- Experience in Software  Analysis,  Design, Development and testing.
+- Well versed with SDLC (Software Development Life Cycle) activities. 
+- A proven team player with good communication, analytical & leadership skills.
+- Thorough knowledge on TDD & write unit test cases
+- A strong understanding of professional software development practice. 
+- Experience of working on large scale websites and microsites.
+- A strong understanding of professional Report development using SAP
 
 ### TECHNICAL SKILLS 
 
