@@ -7,6 +7,26 @@
 
 
 
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VijithP)](https://github.com/VijithP)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijith-pv-0976ab88/)](https://www.linkedin.com/in/vijith-pv-0976ab88/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijith5430@gmail.com)](mailto:vijith5430@gmail.com)
+
+
+<p> 🔭 I’m currently working on Asp.net Core and Angular Apps </p>
+<p> 🌱 I’m currently learning NgRx </p>
+<p> 💬 Ask me about Angular, Asp.Net , MSSQL , Html , Bootstrap </p>
+<p> 📫 How to reach me: email( vijith5430@gmail.com) </p>
+<p> ⚡ Fun fact: learning new technologies </p>
+
+
+### TECHNICAL SKILLS 
+
+<p>- 🔭 Operating System  :	 Windows </p>
+- 🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode
+- 🔭 Technologies    	 : ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 
+- 🔭 Database          : Microsoft  SQL Server 
+- 🔭 eporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) 
+
 ### KEY SKILLS 
 - 6 years of experience in building solutions using Microsoft based Fullstack web technologies.
 - Hand-on experience in  web technologies such as Asp.Net, C#, ASP.NET MVC, WCF,  Web API
@@ -29,25 +49,10 @@
 - A strong understanding of professional software development practice. 
 - Experience of working on large scale websites and microsites.
 
-### TECHNICAL SKILLS 
-
-- 🔭 Operating System  :	 Windows
-- 🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode
-- 🔭 Technologies    	 : ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 
-- 🔭 Database          : Microsoft  SQL Server 
-- 🔭 eporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) 
-
 ### CERTIFICATION
 -  Microsoft Certified Solution Associate (MCSA) : Web Applications 
 
   
-
-[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VijithP)](https://github.com/VijithP)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijith-pv-0976ab88/)](https://www.linkedin.com/in/vijith-pv-0976ab88/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijith5430@gmail.com)](mailto:vijith5430@gmail.com)
-
-
-
 
 
 <!--
