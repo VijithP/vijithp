@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/VijithP/vijithp/blob/master/FD.PNG)
+![alt text](https://github.com/VijithP/vijithp/blob/master/gitHubBagd.PNG)
 
 <p>Hello! Welcome 👋 to my profile 🚀 </p>
 
