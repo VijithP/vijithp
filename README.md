@@ -12,6 +12,7 @@
 <img src="https://github.com/VijithP/vijithp/blob/master/sql.png" alt="sql" width="40" height="40"/> 
 <img src="https://github.com/VijithP/vijithp/blob/master/html5.png" alt="html 5" width="40" height="40"/> 
 <img src="https://github.com/VijithP/vijithp/blob/master/css-3.png" alt="css3" width="40" height="40"/> 
+   <img src="https://github.com/VijithP/vijithp/blob/master/bootstrap.png" alt="bootstrap" width="40" height="40"/>  
 <img src="https://github.com/VijithP/vijithp/blob/master/javascript.png" alt="javascript" width="40" height="40"/> 
   <img src="https://github.com/VijithP/vijithp/blob/master/jquery.png" alt="jquery" width="40" height="40"/> 
   <img src="https://github.com/VijithP/vijithp/blob/master/json.png" alt="json" width="40" height="40"/> 
@@ -35,8 +36,8 @@
 #### TECHNICAL SKILLS 
 
 <p>🔭 Operating System  :	 Windows </p>
-<p>🔭 Development Tools :Microsoft Visual Studio 2015, 2012, vscode </p>
-<p>🔭 Technologies    	 : ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, Android,HTML5,CSS3 </p>
+<p>🔭 Development Tools : Microsoft Visual Studio 2015, 2012, vscode </p>
+<p>🔭 Technologies    	: ASP.NET MVC,C#.NET, Angular, Web API, Bootstrap, WCF, JQuery, JavaScript, HTML5,CSS3 </p>
 <p>🔭 Database          : Microsoft  SQL Server </p>
 <p>🔭 eporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) </p>
 
