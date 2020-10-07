@@ -6,6 +6,10 @@
 <p>I'm Vijith, I'm a full stack developer.</p>
 
 
+<p align="left">
+<img src="https://github.com/VijithP/vijithp/blob/master/angular.png" alt="html5" width="40" height="40"/> 
+</p>
+
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VijithP)](https://github.com/VijithP)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijith-pv-0976ab88/)](https://www.linkedin.com/in/vijith-pv-0976ab88/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijith5430@gmail.com)](mailto:vijith5430@gmail.com)
