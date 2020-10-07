@@ -1,10 +1,11 @@
 
 <p align="left">
-<img src="https://github.com/VijithP/vijithp/blob/master/gitHubBagd.jpg" width="700" height="400")
+<img src="https://github.com/VijithP/vijithp/blob/master/gitHubBagd.jpg" width="800" height="400")
 </p>
 
 <p align="left">
 <img src="https://github.com/VijithP/vijithp/blob/master/angular.png" alt="angular" width="40" height="40"/> 
+<img src="https://github.com/VijithP/vijithp/blob/master/aspnet.png" alt="asp.net" width="40" height="40"/> 
 <img src="https://github.com/VijithP/vijithp/blob/master/typescript.png" alt="typescript" width="40" height="40"/> 
 <img src="https://github.com/VijithP/vijithp/blob/master/c-logo.png" alt="c#" width="40" height="40"/> 
 <img src="https://github.com/VijithP/vijithp/blob/master/api.png" alt="web api" width="40" height="40"/> 
@@ -12,6 +13,9 @@
 <img src="https://github.com/VijithP/vijithp/blob/master/html5.png" alt="html 5" width="40" height="40"/> 
 <img src="https://github.com/VijithP/vijithp/blob/master/css-3.png" alt="css3" width="40" height="40"/> 
 <img src="https://github.com/VijithP/vijithp/blob/master/javascript.png" alt="javascript" width="40" height="40"/> 
+  <img src="https://github.com/VijithP/vijithp/blob/master/jquery.png" alt="jquery" width="40" height="40"/> 
+  <img src="https://github.com/VijithP/vijithp/blob/master/json.png" alt="json" width="40" height="40"/> 
+  
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VijithP)](https://github.com/VijithP)
