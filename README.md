@@ -1,13 +1,10 @@
 
-![alt text](https://github.com/VijithP/vijithp/blob/master/gitHubBagd.PNG)
-
-<p>Hello! Welcome 👋 to my profile 🚀 </p>
-
-<p>I'm Vijith, I'm a full stack developer.</p>
-
+<p align="left">
+<img src="https://github.com/VijithP/vijithp/blob/master/gitHubBagd.jpg" width="700" height="400")
+</p>
 
 <p align="left">
-<img src="https://github.com/VijithP/vijithp/blob/master/angular.png" alt="html5" width="40" height="40"/> 
+<img src="https://github.com/VijithP/vijithp/blob/master/angular.png" alt="angular" width="40" height="40"/> 
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VijithP)](https://github.com/VijithP)
