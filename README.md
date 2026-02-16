@@ -42,7 +42,7 @@
 <p>🔭 eporting          : SAP Crystal Reports and Microsoft Reporting (RDLC) </p>
 
 #### KEY SKILLS 
-- 6 years of experience in building solutions using Microsoft based Fullstack web technologies.
+- 12 years of experience in building solutions using Microsoft based Fullstack web technologies.
 - Hand-on experience in  web technologies such as Asp.Net, C#, ASP.NET MVC, WCF,  Web API
 - Hands on experience in front end web technologies  Angular and Javascript .
 - Hands-on experience in SQL Server
